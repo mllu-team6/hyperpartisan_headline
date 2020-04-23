@@ -8,7 +8,7 @@ This is the code implemented for the paper:
 This code has been written using python3 and is built on top of https://github.com/HLTCHKUST/sensational_headline and https://github.com/HLTCHKUST/hyperpartisan-news-detection
 
 ## Repo Description
-dataset - contains the train and val set(headline and article) and their labels (hyperpartisan [t/f], bias [left,center,right])  [[/dataset]]()
+dataset - contains the train and val set(headline and article) and their labels (hyperpartisan [t/f], bias [left,center,right])  [[/dataset]](https://drive.google.com/drive/folders/1R-Gj1f_ytqEHq98-lRUE7XROxuSzuwrp?usp=sharing)  
 /utils/data_utils.py - reading the xml file from dataset and cleaning the text  
 /utils/preprocessing.py - loading and cleaning data  
 /hyperpartisan_generation.py - hyperpartisan headline generation (modifying /HLTCHKUST/sensational_headline/sensation_generation.py)  
