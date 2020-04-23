@@ -8,19 +8,19 @@ This is the code implemented for the paper:
 This code has been written using python3 and is built on top of https://github.com/HLTCHKUST/sensational_headline and https://github.com/HLTCHKUST/hyperpartisan-news-detection
 
 ## Repo Description
-/dataset - contains the train and val set(headline and article) and their labels (hyperpartisan [t/f], bias [left,center,right])
-/utils/data_utils.py - reading the xml file from dataset and cleaning the text
-/utils/preprocessing.py - loading and cleaning data
-/hyperpartisan_generation.py - hyperpartisan headline generation (modifying /HLTCHKUST/sensational_headline/sensation_generation.py)
-/hyperpartisan_save.py - hyperpartisan headline generation (modifying /HLTCHKUST/sensational_headline/sensation_save.py)
+dataset - contains the train and val set(headline and article) and their labels (hyperpartisan [t/f], bias [left,center,right])  [[/dataset]]()
+/utils/data_utils.py - reading the xml file from dataset and cleaning the text  
+/utils/preprocessing.py - loading and cleaning data  
+/hyperpartisan_generation.py - hyperpartisan headline generation (modifying /HLTCHKUST/sensational_headline/sensation_generation.py)  
+/hyperpartisan_save.py - hyperpartisan headline generation (modifying /HLTCHKUST/sensational_headline/sensation_save.py)  
 /train_hyperpartisan_scorer.py - training hyperpartisan scorer (modifying /HLTCHKUST/sensational_headlinetrain_sensational_scorer.py)
 
 
 ## Working on
--Complete Modifying code from /HLTCHKUST/sensational_headline, and /HLTCHKUST/hyperpartisan-news-detection to leverage for our own implementation
--Complete reading and processing data from SemEval 2019 Task 4
--Implementing Model
-   -Hyperpartisan scorer
+-Complete Modifying code from /HLTCHKUST/sensational_headline, and /HLTCHKUST/hyperpartisan-news-detection to leverage for our own implementation  
+-Complete reading and processing data from SemEval 2019 Task 4  
+-Implementing Model  
+   -Hyperpartisan scorer  
    -Hyperpartisan headline generator
 
 ## Abstract
