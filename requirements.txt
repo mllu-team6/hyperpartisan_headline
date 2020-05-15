@@ -1,2 +1,6 @@
 pytorch==0.4.0
 numpy==1.13.1
+tqdm==4.23.4
+keras==2.3.1
+pickle
+python-Levenshtein
