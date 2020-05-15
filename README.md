@@ -19,10 +19,10 @@ Discrediting misinformation has shown itselfto be a challenging approach in comb
 The dataset is labeled by the overall bias of the publisher according to publisher bias lists compiled by BuzzFeed news and Media Bias Fact Check. It is a balanced dataset containing 750,000 articles with headlines, half of which (375,000) are hyperpartisan and half are not. Among the hyperpartisan articles, half(187,500) are biased on the left side of the political spectrum, and the other half are on the right. 
 
 ## Resources Needed
-The dataset used for this project can be found[[/here]](https://drive.google.com/open?id=1JgxOrtXKKhwj1hNRHnUDQoWCJXXP9NDx)    
+The dataset used for this project can be found[[/here]](https://drive.google.com/open?id=1JgxOrtXKKhwj1hNRHnUDQoWCJXXP9NDx)  
 
-The code is running with jupyter notebook
-
+The code is running with jupyter notebook and could be viewed on Google Colab [[/here]](https://drive.google.com/drive/folders/1R-Gj1f_ytqEHq98-lRUE7XROxuSzuwrp?usp=sharing
+)    
 ## Dependency
 Check the packages needed or simply run the command
 ```console
