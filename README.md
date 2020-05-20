@@ -1,4 +1,4 @@
-# Hyperpartisan Headline Generation with Reinforcement Learning Draft
+# Hyperpartisan Headline Generation with Reinforcement Learning
 
 
 This is the code implemented for the paper:
